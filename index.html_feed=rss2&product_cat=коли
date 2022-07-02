@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Коли - RivalCityRP</title>
+	<atom:link href="https://rivalcityrp.eu/?feed=rss2&#038;product_cat=%d0%ba%d0%be%d0%bb%d0%b8" rel="self" type="application/rss+xml" />
+	<link>https://rivalcityrp.eu</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 15 Oct 2021 12:48:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>https://rivalcityrp.eu/wp-content/uploads/2021/07/cropped-f_logo-150x150.png</url>
+	<title>Коли - RivalCityRP</title>
+	<link>https://rivalcityrp.eu</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">198782769</site>	<item>
+		<title>Коли</title>
+		<link>?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=%25d0%25ba%25d0%25be%25d0%25bb%25d0%25b8</link>
+		
+		<dc:creator><![CDATA[kostashania]]></dc:creator>
+		<pubDate>Fri, 15 Oct 2021 12:48:57 +0000</pubDate>
+				<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[<p>Showing the single result Default sorting Sort by popularity Sort by average rating Sort by latest Sort by price: low to high Sort by price: high to low Sale! Tesla 350.000 лв 29,00&#160;&#8364; 9,00&#160;&#8364; Купи</p>
+<p>The post <a href="">Коли</a> first appeared on <a href="https://rivalcityrp.eu">RivalCityRP</a>.</p>]]></description>
+										<content:encoded><![CDATA[<div class="woocommerce columns-4 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
+	Showing the single result</p>
+<form class="woocommerce-ordering" method="get">
+	<select name="orderby" class="orderby" aria-label="Shop order">
+					<option value="menu_order"  selected='selected'>Default sorting</option>
+					<option value="popularity" >Sort by popularity</option>
+					<option value="rating" >Sort by average rating</option>
+					<option value="date" >Sort by latest</option>
+					<option value="price" >Sort by price: low to high</option>
+					<option value="price-desc" >Sort by price: high to low</option>
+			</select>
+	<input type="hidden" name="paged" value="1" />
+	<input type="hidden" name="feed" value="rss2" /><input type="hidden" name="product_cat" value="коли" /></form>
+<ul class="products columns-4">
+<li class="product type-product post-3314 status-publish first instock product_cat-36 product_tag-37 has-post-thumbnail sale taxable shipping-taxable product-type-external">
+	<a href="https://rivalcityrp.eu/?product=album" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	<span class="onsale">Sale!</span>
+	<img width="300" height="300" src="https://rivalcityrp.eu/wp-content/uploads/2021/10/Tesla_350000Lv_e-shop-300x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://rivalcityrp.eu/wp-content/uploads/2021/10/Tesla_350000Lv_e-shop-300x300.png 300w, https://rivalcityrp.eu/wp-content/uploads/2021/10/Tesla_350000Lv_e-shop-150x150.png 150w, https://rivalcityrp.eu/wp-content/uploads/2021/10/Tesla_350000Lv_e-shop-100x100.png 100w, https://rivalcityrp.eu/wp-content/uploads/2021/10/Tesla_350000Lv_e-shop.png 500w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Tesla 350.000 лв</h2>
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi>29,00&nbsp;<span class="woocommerce-Price-currencySymbol">&euro;</span></bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi>9,00&nbsp;<span class="woocommerce-Price-currencySymbol">&euro;</span></bdi></span></ins></span>
+</a><a href="https://www.mymarkethub.eu/ecommerce/product/98" data-quantity="1" class="button product_type_external" data-product_id="3314" data-product_sku="" aria-label="Купи" rel="nofollow">Купи</a></li>
+</ul>
+</div><p>The post <a href="">Коли</a> first appeared on <a href="https://rivalcityrp.eu">RivalCityRP</a>.</p>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
